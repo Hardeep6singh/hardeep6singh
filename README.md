@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardeep Singh</h1>
-<h3 align="center">A passionate frontend developer from IEnthusiastic and passionate towards my goal and looking opportunities in data science or web development. Recently completed my course with Humber College of Information Technology Solutions.ndia</h3>
+<h3 align="center">Enthusiastic and passionate towards my goal and looking opportunities in data science or web development. Recently completed my course with Humber College of Information Technology Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeep6singh&label=Profile%20views&color=0e75b6&style=flat" alt="hardeep6singh" /> </p>
 
