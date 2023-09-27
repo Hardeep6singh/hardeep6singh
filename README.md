@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardeep6singh" alt="hardeep6singh" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and deployment using CI/CD pipelines**
+- 🌱 I’m currently learning **Muticloud Technologies, DevOps and deployment using CI/CD pipelines**
 
 - 💬 Ask me about **MEAN, MERN, Tableau, Neo4J, .Net Core, Java**
 
